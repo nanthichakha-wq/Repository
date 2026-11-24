@@ -1,0 +1,7 @@
+pruksa-haircare/
+├── index.html          <-- นำโค้ดหน้าเว็บที่ได้ไปบันทึกเป็นไฟล์ชื่อ index.html
+└── images/             <-- สร้างโฟลเดอร์ชื่อ images สำหรับเก็บรูปภาพแยกต่างหาก
+    ├── hero-banner.jpg
+    ├── sku-001.jpg
+    ├── sku-002.jpg
+    └── sku-003.jpg
